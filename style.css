@@ -1,0 +1,17 @@
+/* =============== */
+/* Flower Shop CSS */
+/* =============== */
+
+body {
+  background-color: black;
+}
+
+.site_colorbar {
+  height: 100px;
+
+  background: repeating-linear-gradient(90deg, #fee34c, #fee34c, 39px, white 0, white 77px);
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
